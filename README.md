@@ -1,5 +1,5 @@
 # Private-Ai-Resources
-Private machine learning progress
+Private machine learning progress.
 
 ## Content
 - [About](#about)
